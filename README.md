@@ -7,7 +7,13 @@ Machine learning and transfer learning algoirthms for *Yarrowia lipolytica* and 
 - [Installation](#installation)
 
 ## Description
-This repository contains 1. Code for generating prompts for GPT-4 to extract data based on papers 2. Machine learning algoirthms trained and tested on *Yarrowia lipolytica* and *Rhodosporidium toruloides* 3. Transfer learning algorithms from *Yarrowia lipolytica* to *Rhodosporidium toruloides* 4. Corresponding data. <br>
+This repository contains 
+* Code for generating prompts for GPT-4 to extract data based on papers
+* Machine learning algoirthms trained and tested on *Yarrowia lipolytica* and *Rhodosporidium toruloides*
+* Transfer learning algorithms from *Yarrowia lipolytica* to *Rhodosporidium toruloides*
+* Corresponding data.
+
+<br>
 
 This study presents a proof-of-concept workflow that leverages GPT AI to extract data from academic articles focused on the industrial yeast, Yarrowia lipolytica. The extracted data facilitates machine learning and transfer learning methods, to accurately predict outcome variables, such as titer, from unseen data based on varying strain designs, culture medium, and bioreactor conditions. Transfer Learning (TL) can expedite research on the less-studied yeast, thereby predicting product titers for *Rhodosporidium toruloides* with different numbers of heterologous genes.
 
