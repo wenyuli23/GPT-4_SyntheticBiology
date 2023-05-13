@@ -17,4 +17,4 @@ All data extracted during this project have been made publicly available at impa
 For a complete list of requirements to run all algorithms, please see requirements.txt. A separate virtual environment is recommended. All code was developed and tested with Python 3.7.
 
 ## Installation
-To install jupyter notebook, please refer to [this page.](https://docs.conda.io/projects/conda/en/latest/user-guide/install/](https://docs.jupyter.org/en/latest/install/notebook-classic.html)
+To install jupyter notebook, please refer to [this page.](https://docs.jupyter.org/en/latest/install/notebook-classic.html)
